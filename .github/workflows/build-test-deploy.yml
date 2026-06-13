@@ -30,7 +30,7 @@ jobs:
       name: Start backend
     - run: npm run server &
       name: Start frontend
-    - run: npm run server &
+    - run: npm run start &
     - name: Install Playwright Browsers
       run: npx playwright install
     - name: Run Playwright tests
