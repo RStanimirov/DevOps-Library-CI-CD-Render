@@ -32,6 +32,6 @@ jobs:
       name: Start frontend
     - run: npm run server &
     - name: Install Playwright Browsers
-      run: npx playwright install --with-deps
+      run: npx playwright install
     - name: Run Playwright tests
       run: npm run test
