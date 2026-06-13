@@ -2,7 +2,7 @@
 
 A full-stack Node.js application demonstrating a complete **CI/CD workflow** using **GitHub Actions** and deployment on **Render**.
 
-This project is built for educational purposes as part of DevOps/CI-CD training.
+This project is built for educational purposes as part of SoftUni DevOps/CI-CD training.
 
 🔗 Live Demo: https://devops-library-ci-cd-render-fe.onrender.com
 
@@ -12,12 +12,9 @@ This project is built for educational purposes as part of DevOps/CI-CD training.
 
 ### Frontend
 - HTML / CSS / JavaScript
-- Lit HTML
-- Page.js (routing)
 
 ### Backend
 - Node.js
-- Express.js
 
 ### Testing
 - Playwright (UI testing)
@@ -69,6 +66,6 @@ This project uses two Render services:
 Runs Node.js/Express server
 Entry point: server/server.js
 
-3. Frontend (Static Site)
+2. Frontend (Static Site)
 Serves frontend application (index.html)
 Build path: root (./)
