@@ -28,7 +28,6 @@ This project is built for educational purposes as part of DevOps/CI-CD training.
 ### Deployment
 - Render (Frontend + Backend)
 
----
 
 ## ⚠️ Disclaimer
 
@@ -51,12 +50,12 @@ It is not intended for production use and comes without any guarantees or warran
 
 ## Git workflow
 
-git init
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin <your-repo-url>
-git push -u origin main
+- git init
+- git add .
+- git commit -m "Initial commit"
+- git branch -M main- 
+- git remote add origin <your-repo-url>
+- git push -u origin main
 
 ---
 
@@ -67,7 +66,6 @@ This project uses two Render services:
 1. Backend (Web Service)
 Runs Node.js/Express server
 Entry point: server/server.js
-Must use: process.env.PORT
 
 3. Frontend (Static Site)
 Serves frontend application (index.html)
