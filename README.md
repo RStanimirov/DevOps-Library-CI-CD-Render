@@ -1,3 +1,4 @@
+<img width="1178" height="211" alt="actions-build-test-deploy" src="https://github.com/user-attachments/assets/fe7cdf71-f25f-4677-9178-cbbe30eeca23" />
 # SoftUni Students Library – CI/CD Pipeline Demo
 
 A full-stack Node.js application demonstrating a complete **CI/CD workflow** using **GitHub Actions** and deployment on **Render**.
